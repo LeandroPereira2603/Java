@@ -1,2 +1,2 @@
 # Java-Geral
- <p>Aqui terá todos os desenvolvimento em java e anotações </p>
+ <p>Aqui terá todos os repositórios de desenvolvimento em java</p>
