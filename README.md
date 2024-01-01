@@ -9,4 +9,4 @@
 | Projetos em desenvolvimento    |  🟡  | 0 |
 | Projetos concluídos    |  🟢  | 0 |
 | Meus projetos Favoritos | ⭐ | 0 |
-| Código Fonte - local do repositório | ☕| 1 |
+| Código Fonte - local do repositório | ☕| 0 |
