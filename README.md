@@ -10,12 +10,13 @@
 | Concluídos    |  🟢  | 0 |
 | Favoritos | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 0 |
-
+| Exercicio em andamento |  🕗  |  
+| Exercicio concluido | ✔ | 
 
 # Prática 
 
 ## Prática ( Beecrowd exercicios ) 
 
-* Hello World 
-* Extremely basic 
+* ✔ [Hello World ]
+* ✔ [Extremely basic]
 
