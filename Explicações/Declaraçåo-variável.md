@@ -3,8 +3,8 @@
 
 ```java 
 
-Public class Declaration{
-Public static void main(String []args){
+Public class Declaration {
+Public static void main (String []args){
 
 int x = 30;
 float y = 40;
