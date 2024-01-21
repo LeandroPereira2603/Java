@@ -1,6 +1,7 @@
 # Declaraçåo de variável 
 
-'''java 
+
+```java 
 
 Public class Declaration{
 Public static void main(String []args){
@@ -19,4 +20,5 @@ System.out.println("\n "+x+"\n "+y+"\n "+c+"\n "+t+\n ");
 
 }
 
-'''
+
+```
