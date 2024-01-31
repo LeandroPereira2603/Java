@@ -179,12 +179,16 @@ Queue,stack,sort,map,set...
  Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar */
 
 
-Public class Tabuada {
-Public static void main (String args[]){
+import java.util.Scanner;
+
+public class Tabuada {
+public static void main(String[] args) {
 
 Scanner ler = new Scanner (System.in);
+
 System.out.println("Digite o número máximo de tabuadas que deseja visualizar ");
-int c = ler.nextInt();
+int c = ler.nexInt();
+
 c++;
 var n = 0;
 for (int k=0;k<c;k++){ 
@@ -193,12 +197,12 @@ for (int k=0;k<c;k++){
    System.out.println(" "+n+" x "+i+" = "+result);
   }
   n++;
- }
-
+  System.out.println("");
 }
 
 }
 
+}
 
 ```
 
