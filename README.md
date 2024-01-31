@@ -20,7 +20,7 @@
 | Descrição | Extensão |
 |:--:|:--:|
 | Para melhor visualização e detalhe do código | arquivo.md|
-| Para execusão do javascript | arquivo.js |
+| Para execusão do java | arquivo.java |
 
 ### Convençôes usadas para anotaçôes do repositório :
 
@@ -116,8 +116,8 @@
 
 ### Estrutura de dados :
 
-1. [Bubble Sort]☕ [ Bubble Sort]
-1. [Select Sort ]☕ [ Select Sort ]
+1. [Bubble Sort] ☕ [ Bubble Sort]
+1. [Select Sort ] ☕ [ Select Sort ]
 
 ## :computer: Beecrowd : Exercicios gerais  
 
