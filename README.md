@@ -110,7 +110,7 @@
 1. [ Tabuada.md  ] ☕  [ Tabuada.java ] 
 1. [  Metódo-de-butterfly.md  ] ☕ [ Metódo-de-butterfly.java]🗺️ ( EUA : English )
 1. [ Imc.md] ☕ [ Imc.java]
-1. [ Circuferência do circulo.md ] ☕  [ Circuferência do circulo.js ]
+1. [ Circuferência do circulo.md ] ☕  [ Circuferência do circulo.java ]
 
 ###  Lógica :
 
