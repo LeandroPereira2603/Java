@@ -1,5 +1,7 @@
 # Declaraçåo de variável 
 
+Serve para armazenar um valor a variável na memória .
+
 
 ```java 
 
