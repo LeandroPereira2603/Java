@@ -5,8 +5,8 @@ Serve para armazenar um valor a variável na memória .
 
 ```java 
 
-Public class Declaration {
-Public static void main (String []args){
+public class Declaration {
+public static void main (String []args){
 
 int x = 30;
 float y = 40;
