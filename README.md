@@ -107,7 +107,7 @@
 ### Cálculos :
 
 1. [ Tabuada.md  ] ☕  [ Tabuada.java ] 
-1. [  Metódo-de-butterfly.md  ] ☕ [ Metódo-de-butterfly.java]🗺️ ( EUA : English )
+1. [  Metódo-de-butterfly.md  ] ☕ [ Metódo-de-butterfly.java](https://github.com/LeandroPereira2603/Java/blob/main/Programa-Geral%2FC%C3%A1lculos%2FMetodoButterfly.java) 🗺️ ( EUA : English )
 1. [ Imc.md] ☕ [ Imc.java]
 1. [ Circuferência do circulo.md ] ☕  [ Circuferência do circulo.java ]
 
