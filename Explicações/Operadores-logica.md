@@ -5,7 +5,7 @@
 | not | != | 
 
 
-'''java 
+```java 
 
 public class OperadoresLogica {
 public static void main ( String [] args ) {
@@ -46,4 +46,4 @@ System.out.println("falso");
 
 
 
-'''
+```
