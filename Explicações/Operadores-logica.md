@@ -1,7 +1,7 @@
 | Lógica | Sintaxe |
 |:--:|:--:|
 | and  | &&  | 
-| or | <H3>||</H3> | 
+| or | <br>||</br> | 
 | not | not  | 
 
 
