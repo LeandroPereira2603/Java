@@ -67,7 +67,7 @@
 
 * [ Declaração de variáveis](https://github.com/LeandroPereira2603/Java/blob/main/Explica%C3%A7%C3%B5es%2FDeclara%C3%A7%C3%A5o-vari%C3%A1vel.md) 
 * [ Operadores Aritiméticos](https://github.com/LeandroPereira2603/Java/blob/main/Explica%C3%A7%C3%B5es%2FOperadores-aritm%C3%A9tica.md)
-* [ Operadores Relacionais]
+* [ Operadores Relacionais](https://github.com/LeandroPereira2603/Java/blob/main/Explica%C3%A7%C3%B5es%2FOperadores-relacionais.md)
 * [ Operadores Lógicos ]
 * [ Operadores de comparação ]
 * [ Interpolação de variáveis ]
