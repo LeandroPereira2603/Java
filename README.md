@@ -61,7 +61,6 @@
 
 * [ Fontes ]
 * [ História da linguagem | Sobre a linguagem | Regras de sintaxe  ](https://github.com/LeandroPereira2603/Java/blob/main/Explica%C3%A7%C3%B5es%2Fhist%C3%B3ria-da-linguagem-java.md)
-* [ Boas práticas de programação ]
 
 ### Sintaxe da Linguagem java :
 
