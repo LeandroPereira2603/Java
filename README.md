@@ -68,7 +68,7 @@
 * [ Operadores Aritiméticos](https://github.com/LeandroPereira2603/Java/blob/main/Explica%C3%A7%C3%B5es%2FOperadores-aritm%C3%A9tica.md)
 * [ Operadores Relacionais](https://github.com/LeandroPereira2603/Java/blob/main/Explica%C3%A7%C3%B5es%2FOperadores-relacionais.md)
 * [ Operadores Lógicos ](https://github.com/LeandroPereira2603/Java/blob/main/Explica%C3%A7%C3%B5es%2FOperadores-logica.md)
-* [ Operadores de comparação ]
+* [ Operadores de comparação ](https://github.com/LeandroPereira2603/Java/blob/main/Explica%C3%A7%C3%B5es%2FOperadores-compara%C3%A7%C3%A3o.md)
 * [ Interpolação de variáveis ]
 * [ Concatenação de variáveis ]
 * [ Estrutura de desição ( if ,swicth case ) ]
